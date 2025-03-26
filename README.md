@@ -6,4 +6,4 @@ Here's a screenshot of the web page:
 
 ![](gerich-restaurant.png)
 
-Here's a link to the deployed project: https://gerich-restaurant-chi.vercel.app/
+Here's a link to the deployed project: https://gericht-restaurant-iota-ten.vercel.app/
